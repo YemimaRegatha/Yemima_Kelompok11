@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MOdul1Kel11.iml" filepath="$PROJECT_DIR$/MOdul1Kel11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modul3/Modul3.iml" filepath="$PROJECT_DIR$/Modul3/Modul3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modul4_kel11/modul4_kel11.iml" filepath="$PROJECT_DIR$/modul4_kel11/modul4_kel11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modul4_kel11/tugas praktikum/tugas praktikum.iml" filepath="$PROJECT_DIR$/modul4_kel11/tugas praktikum/tugas praktikum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+    </modules>
+  </component>
+</project>
